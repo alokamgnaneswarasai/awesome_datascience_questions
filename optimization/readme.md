@@ -58,7 +58,7 @@ $$
 
 ## 3.2 Stochastic Gradient Descent (SGD)
 
-Update the parameters for each individual example $ (x^{(i)}, y^{(i)})$:
+Update the parameters for each individual example $ (\x^{(i)}, y^{(i)}\)$:
 
 $$
 \theta = \theta - \eta \cdot \nabla_{\theta} J(\theta; x^{(i)}, y^{(i)})
